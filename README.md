@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am an upcoming Full Stack Junior Web Developer .
 <!--
 **Fmaarij/Fmaarij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
