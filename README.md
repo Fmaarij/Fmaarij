@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 
 <img
-  src="https://github.com/Fmaarij/README.md/blob/main/images/stat.svg"
+  src="https://github.com/Fmaarij/README/blob/main/images/stat.svg"
   alt=""
 />
-
 
