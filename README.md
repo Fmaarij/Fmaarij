@@ -21,11 +21,8 @@ Here are some ideas to get you started:
 
 
 <img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  src="https://github.com/<Fmaarij>/<repository-name>/blob/<branch-name>/images/stat.svg"
   alt=""
 />
 
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Faisal WakaTime Activity"
-/>
+
