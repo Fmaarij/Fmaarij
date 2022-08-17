@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 
 <figure><embed src="https://wakatime.com/share/@Fai_Mj/d7eb6866-01e4-4a5c-a74e-146acdf9cfc1.svg"></embed></figure>
 
+
 <img
   src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
   alt=""
 />
 
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/avinal/fmaarij/blob/main/images/stat.svg"
   alt="Faisal WakaTime Activity"
 />
