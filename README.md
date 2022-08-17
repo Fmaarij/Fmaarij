@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 />
 
 <img
-  src="https://github.com/avinal/Fmaarij/blob/main/images/stat.svg"
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
   alt="Faisal WakaTime Activity"
 />
