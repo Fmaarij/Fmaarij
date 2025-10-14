@@ -3,7 +3,7 @@
 
 🌱 I’m passionate about building dynamic, user-friendly web applications using **modern JavaScript frameworks** and **clean, maintainable code**.  
 💡 Always learning and exploring new technologies to improve my craft.  
-💬 Ask me about **React**, **Node.js**, or **Tailwind CSS**!  
+💬 Ask me about **PHP**, **Laravel**, **Laravel**, or **Javascript**!  
 
 ---
 
