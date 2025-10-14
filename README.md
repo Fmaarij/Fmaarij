@@ -1,7 +1,7 @@
 ## 👋 Hi there!  
-### I'm Faisal maarij — a Junior Full Stack Web Developer 🚀  
+### I'm Faisal Maarij — a Junior Full Stack Web Developer 🚀  
 
-🌱 I’m passionate about building dynamic, user-friendly web applications using **modern JavaScript frameworks** and **clean, maintainable code**.  
+🌱 I’m passionate about building dynamic, user-friendly web applications using **modern JavaScript** and **clean, maintainable code**.  
 💡 Always learning and exploring new technologies to improve my craft.  
 💬 Ask me about **PHP**, **Laravel**, **Laravel**, or **Javascript**!  
 
