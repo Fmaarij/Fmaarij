@@ -7,13 +7,10 @@
 
 ---
 ### 📊 GitHub Stats
-
-![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fmaarij&show_icons=true&theme=bear)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fmaarij&show_icons=true&theme=bear)
 
 ### 💻 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fmaarij&theme=bear&layout=compact)
-
 <!-- Optional: Wakatime section if you want to track coding time -->
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fai_Mj&theme=bear&layout=compact) -->
 
