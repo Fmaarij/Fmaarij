@@ -10,7 +10,7 @@
 ---
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Fmaarij&layout=donut&theme=bear)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Fmaarij&layout=pie&theme=bear)
 
 ### 🛠️ Technologies & Tools
 
