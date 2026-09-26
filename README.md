@@ -6,11 +6,12 @@
 💬 Ask me about **PHP**, **Laravel**, **Laravel**, or **Javascript**!  
 
 ---
+### 📊 GitHub Stats
 
-### 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fmaarij&show_icons=true&theme=bear)
+![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fmaarij&show_icons=true&theme=bear)
 
-### 💻 Most Used Languages  
+### 💻 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fmaarij&theme=bear&layout=compact)
 
 <!-- Optional: Wakatime section if you want to track coding time -->
