@@ -8,6 +8,9 @@
 💬 Ask me about **Java, PHP, Laravel, JavaScript, and SQL**!
 
 ---
+### 💻 Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Fmaarij&layout=pie&theme=bear)
 
 ### 🛠️ Technologies & Tools
 
@@ -25,8 +28,6 @@
 - 📫 **Email:** maarij_faisal@hotmail.com
 
 ---
-### 💻 Most Used Languages
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Fmaarij&layout=pie&theme=bear)
 
 ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
