@@ -8,7 +8,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fmaarij&show_icons=true&theme=bear)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fmaarij&show_icons=true&theme=bear)
 
 ### 💻 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fmaarij&theme=bear&layout=compact)
